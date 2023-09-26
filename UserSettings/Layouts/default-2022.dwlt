@@ -322,22 +322,22 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets
+    - Assets/Audio Clips
     m_Globs: []
     m_OriginalText: 
     m_ImportLogFlags: 0
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets
+  - Assets/Audio Clips
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: D:\31263Assessment3-Penghuan\31263Assessment3-Penghuan
+  m_LastProjectPath: D:\31263_PenghuanZhang_13318821
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 7e410000
-    m_LastClickedID: 16766
+    m_SelectedIDs: 02060000
+    m_LastClickedID: 1538
     m_ExpandedIDs: 000000007e41000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -504,7 +504,7 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 
+      m_SelectedIDs: f2050000
       m_LastClickedID: 0
       m_ExpandedIDs: a2f6ffff
       m_RenameOverlay:
